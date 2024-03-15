@@ -13,3 +13,4 @@ def square_number(a):
     a*=a
     print(f'value before square_number(): {a}')
     return (a)
+    return a+a
